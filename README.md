@@ -1,4 +1,4 @@
-### Hi, I'm Luize 👋
+### Hi, I'm Luize 👋👩‍💻
 
 <!--
 **rezendeluize/rezendeluize** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
